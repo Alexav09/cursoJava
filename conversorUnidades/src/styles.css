@@ -1,0 +1,29 @@
+.combo-box {
+    -fx-font: 20px "Arial";
+    -fx-pref-width: 650px;
+}
+.combo-boxUnid {
+    -fx-font: 18px "Arial";
+    -fx-pref-width: 300px;
+}
+
+.text-field {
+    -fx-font: 20px "Arial";
+    -fx-pref-width: 300px;
+}
+
+.label {
+    -fx-font: 20px "Arial";
+    -fx-pref-width: 50px;
+
+}
+
+.button {
+    -fx-font: 20px "Arial";
+
+}
+
+#TextFinal {
+    -fx-background-color: gainsboro;
+    -fx-control-inner-background: lightyellow;
+}
